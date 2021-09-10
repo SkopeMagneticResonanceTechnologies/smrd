@@ -1,0 +1,12 @@
+*~
+*.h5
+*.pyc
+MANIFEST
+build/
+dist/
+venv/
+*.swp
+*.egg-info
+xsd.py
+.eggs
+.idea
