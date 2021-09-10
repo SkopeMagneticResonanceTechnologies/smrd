@@ -1,7 +1,7 @@
 # Python implementation of the ISMRMRD
 
- - Open an anaconda shell
- - Create virtual environment in the base folder
+ - Open an Anaconda shell
+ - Create a virtual environment in the git base folder
   `python -m venv .\venv`
 
  - Activate the environment
