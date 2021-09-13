@@ -21,6 +21,6 @@
   
  - Run spyder
  
- - Go to the _Tools_ menu and select the _Preferences_ dialog. In the Python interpreter section, set the python interpreter to SomePath\smrd\venv\Scripts\python.exe.
+ - Go to the _Tools_ menu and select the _Preferences_ dialog. In the Python interpreter section, set the python interpreter to _SomePath_\smrd\venv\Scripts\python.exe.
 
 
