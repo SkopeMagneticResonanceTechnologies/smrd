@@ -2,8 +2,8 @@
 
  - Clone this repository
  - Open an Anaconda shell
- - Navifate to the base folder of the repository
- - Create a virtual environment in the git base folder
+ - Navigate to the base folder of the repository
+ - Create a virtual environment in the base folder
   `python -m venv .\venv`
 
  - Activate the environment
