@@ -15,10 +15,7 @@
  - Install the dependencies
   `pip install -r requirements.txt`
 
- - Build
-  `python.exe setup.py build`
-
- - Or install
+ - Install
   `python.exe setup.py install`
   
  - Run spyder
